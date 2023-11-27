@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📱 I advocate making digital products and services accessible to everyone with the possibility of technology.
 
-🔭 Send me an [email](edakizakœgmail.com) saying Hi!
+🔭 Send me an [email](edakizak@gmail.com) saying Hi!
 
 💌 Check out [my website](https://edakizak.wixsite.com/my-site).
 
