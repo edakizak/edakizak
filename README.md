@@ -8,5 +8,17 @@
 
 📱 I advocate making digital products and services accessible to everyone with the possibility of technology.
 
-💌 Check out [my website](https://edakizak.wixsite.com/my-site).
+💌 Check out [my website](https://edakizak.wixsite.com/my-site)
+
+📡 Contact me on [![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/edakizak/)
+
+### 🧬 Design Tools
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge"> <img src="https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff&style=for-the-badge" alt="Miro Badge"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge" alt="Adobe Illustrator Badge"> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-99F?logo=adobeaftereffects&logoColor=fff&style=for-the-badge" alt="Adobe After Effects Badge">
+
+### 💈 Languages 
+
+![loading](https://media1.giphy.com/media/FaAxdPWZ7HKGmlnku7/giphy.gif?cid=ecf05e47eai440cam0i1rixwqtmjozp5l7dcbbnnpkhabkal&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge"> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
 
